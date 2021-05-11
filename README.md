@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @focusorfold
-- 👀 I’m interested in ... working with the best
-- 🌱 I’m currently learning ... from the best
-- 💞️ I’m looking to collaborate on ... everything
+- 👀 I’m interested in ... game designing.
+- 🌱 I’m currently learning ... cascaded shadow mapping.
+- 💞️ I’m looking to collaborate on ... game development.
 - 📫 How to reach me ... you'll know
 
 <!---
