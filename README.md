@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @focusorfold
-- 👀 I’m interested in ... 3Dgame design.
+- 👀 I’m interested in ... 3D game design.
 - 🌱 I’m currently learning ... cascaded shadow mapping.
-- 💞️ I’m looking to collaborate on ... game development.
+- 💞️ I’m looking to collaborate on ... space game development.
 - 📫 How to reach me ... you'll know
 
 <!---
